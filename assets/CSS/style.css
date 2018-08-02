@@ -1,5 +1,10 @@
+.panel-default{
+    align-content: center;
+}
 .panel-body {
     background: #e1244e;
+    align-content: center;
+    padding-left: 0px;
 
 }
 
